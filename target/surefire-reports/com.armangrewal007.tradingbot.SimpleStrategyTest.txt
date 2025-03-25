@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.armangrewal007.tradingbot.SimpleStrategyTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.557 s <<< FAILURE! - in com.armangrewal007.tradingbot.SimpleStrategyTest
+checkStrategy  Time elapsed: 0.149 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Failure, no gains ==> expected: <false> but was: <true>
+	at com.armangrewal007.tradingbot.SimpleStrategyTest.checkStrategy(SimpleStrategyTest.java:64)
+
